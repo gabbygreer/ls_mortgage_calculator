@@ -1,0 +1,15 @@
+{
+    "prompt_invalid_number": "Please enter an amount greater than 0.",
+    "prompt_invalid_interest": "Please enter an amount equal to or greater than 0",
+    "prompt_welcome_message": "Welcome to Mortgage Calculator!\n",
+    "prompt_loan_amount": "What's the amount of your loan?",
+    "prompt_loan_amount_example": "(Example: 50000 for $50,000)",
+    "prompt_enter_positive_number": "Please enter a positive number",
+    "prompt_interest_rate": "What's your Annual Percentage Rate (APR)?",
+    "prompt_interest_rate_example": "(Example: 5 for 5% or 2.5 for 2.5%)",
+    "prompt_loan_duration": "What's your loan duration (in years)?",
+    "prompt_payment_summary": "\nLoan amount: ${amount}\nYearly APR: {interest_rate}%\nLoan duration: {loan_duration} years\nYour monthly payment is ${monthly_payment}",
+    "prompt_calculate_another": "Do you want to calculate another loan?",
+    "prompt_calculate_another_answer": "Please enter 'yes' or 'no'."
+}
+
